@@ -40,5 +40,6 @@ The primary objective of this analysis is to understand how annual members ("mem
 
 **Power BI Dashboard**
 https://app.powerbi.com/links/JuyqiSVtqC?ctid=8fd9c4d6-0820-4f5c-b276-3a1670a02a37&pbi_source=linkShare
+
 The interactive dashboard visualizes key metrics and trends for Cyclistic’s bike-share program.
 
